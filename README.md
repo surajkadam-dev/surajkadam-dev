@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋 I'm Suraj Kadam
 
-<!--
-**surajkadam-dev/surajkadam-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer  
+🎓 IT Undergraduate  
+📍 Government College of Engineering Karad  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a passionate MERN Stack Developer who loves building full-stack web applications using modern technologies.
+
+I enjoy solving problems and creating scalable backend and responsive frontend applications.
+
+---
+
+## 🛠 Tech Stack
+
+Frontend:
+- React.js
+- HTML
+- CSS
+- JavaScript
+
+Backend:
+- Node.js
+- Express.js
+
+Database:
+- MongoDB
+
+Tools:
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📌 Current Focus
+
+- Building Full Stack Web Applications
+- Improving Backend Development Skills
+- Learning Advanced JavaScript
+
+---
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/surajkadam-dev
