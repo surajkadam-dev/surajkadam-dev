@@ -1,8 +1,6 @@
 # Hi 👋 I'm Suraj Kadam
 
 💻 MERN Stack Developer  
-🎓 IT Undergraduate  
-📍 Government College of Engineering Karad  
 
 ---
 
